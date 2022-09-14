@@ -30,4 +30,8 @@ body{
     .display-data{
         flex-direction: column;
     }
+
+    .spacecraft-card{
+        width:300px;
+    }
 }
